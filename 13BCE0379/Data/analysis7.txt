@@ -1,0 +1,208 @@
+Positive Sentences
+I took this action to assist the Saudi Arabian Government in the defense of its homeland.
+Polarity: 0.1
+Subjectivity0.1
+
+Positive Sentences
+Less than a week ago, in the early morning hours of August 2d, Iraqi Armed Forces, without provocation or warning, invaded a peaceful Kuwait.
+Polarity: 0.0611111111111
+Subjectivity0.288888888889
+
+Positive Sentences
+With more than 100,000 troops, along with tanks, artillery, and surface-to-surface missiles, Iraq now occupies Kuwait.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+First, we seek the immediate, unconditional, and complete withdrawal of all Iraqi forces from Kuwait.
+Polarity: 0.175
+Subjectivity0.366666666667
+
+Positive Sentences
+Immediately after the Iraqi invasion, I ordered an embargo of all trade with Iraq and, together with many other nations, announced sanctions that both freeze all Iraqi assets in this country and protected Kuwait's assets.
+Polarity: 0.1875
+Subjectivity0.4375
+
+Positive Sentences
+The stakes are high.
+Polarity: 0.16
+Subjectivity0.54
+
+Positive Sentences
+Iraq is already a rich and powerful country that possesses the world's second largest reserves of oil and over a million men under arms.
+Polarity: 0.225
+Subjectivity0.583333333333
+
+Positive Sentences
+Our country now imports nearly half the oil it consumes and could face a major threat to its economic independence.
+Polarity: 0.0319444444444
+Subjectivity0.288888888889
+
+Positive Sentences
+Much of the world is even more dependent upon imported oil and is even more vulnerable to Iraqi threats.
+Polarity: 0.175
+Subjectivity0.425
+
+Positive Sentences
+Keeping the peace in the Middle East will require no less.
+Polarity: 0.0416666666667
+Subjectivity0.0333333333333
+
+Positive Sentences
+We're beginning a new era.
+Polarity: 0.136363636364
+Subjectivity0.454545454545
+
+Positive Sentences
+This new era can be full of promise, an age of freedom, a time of peace for all peoples.
+Polarity: 0.243181818182
+Subjectivity0.502272727273
+
+Positive Sentences
+I pledge here today that the United States will do its part to see that these sanctions are effective and to induce Iraq to withdraw without delay from Kuwait.
+Polarity: 0.6
+Subjectivity0.8
+
+Positive Sentences
+Iraq has massed an enormous war machine on the Saudi border capable of initiating hostilities with little or no additional preparation.
+Polarity: 0.00416666666667
+Subjectivity0.6
+
+Positive Sentences
+Given the Iraqi government's history of aggression against its own citizens as well as its neighbors, to assume Iraq will not attack again would be unwise and unrealistic.
+Polarity: 0.05
+Subjectivity1.0
+
+Positive Sentences
+Let me be clear: The sovereign independence of Saudi Arabia is of vital interest to the United States.
+Polarity: 0.1
+Subjectivity0.391666666667
+
+Positive Sentences
+I want to be clear about what we are doing and why.
+Polarity: 0.1
+Subjectivity0.383333333333
+
+Positive Sentences
+Secretary of State Baker has consulted with his counterparts in many nations, including the Soviet Union, and today he heads for Europe to consult with President Ozal of Turkey, a staunch friend of the United States.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+And one more thing: I'm asking the oil companies to do their fair share.
+Polarity: 0.6
+Subjectivity0.7
+
+Positive Sentences
+Standing up for our principles will not come easy.
+Polarity: 0.433333333333
+Subjectivity0.833333333333
+
+Positive Sentences
+It may take time and possibly cost a great deal.
+Polarity: 0.4
+Subjectivity0.875
+
+Positive Sentences
+But we are asking no more of anyone than of the brave young men and women of our Armed Forces and their families.
+Polarity: 0.216666666667
+Subjectivity0.633333333333
+
+Positive Sentences
+As it has so many times before, it may take time and tremendous effort, but most of all, it will take unity of purpose.
+Polarity: 0.444444444444
+Subjectivity0.666666666667
+
+Positive Sentences
+And in this August day, at home and abroad, I know she will do no less.
+Polarity: 0.0833333333333
+Subjectivity0.0666666666667
+
+Negative Sentence
+Sometimes these choices are not easy.
+Polarity: -0.216666666667
+Subjectivity0.833333333333
+
+Negative Sentence
+But today as President, I ask for your support in a decision I've made to stand up for what's right and condemn what's wrong, all in the cause of peace.
+Polarity: -0.107142857143
+Subjectivity0.717857142857
+
+Negative Sentence
+No one commits America's Armed Forces to a dangerous mission lightly, but after perhaps unparalleled international consultation and exhausting every alternative, it became necessary to take this action.
+Polarity: -0.0833333333333
+Subjectivity0.533333333333
+
+Negative Sentence
+Facing negligible resistance from its much smaller neighbor, Iraq's tanks stormed in blitzkrieg fashion through Kuwait in a few short hours.
+Polarity: -0.0666666666667
+Subjectivity0.3
+
+Negative Sentence
+There is no justification whatsoever for this outrageous and brutal act of aggression.
+Polarity: -0.9375
+Subjectivity1.0
+
+Negative Sentence
+It's the fourth largest military in the world.
+Polarity: -0.05
+Subjectivity0.05
+
+Negative Sentence
+But if history teaches us anything, it is that we must resist aggression or it will destroy our freedoms.
+Polarity: -0.2
+Subjectivity0.0
+
+Negative Sentence
+And twice we have seen what his promises mean: His promises mean nothing.
+Polarity: -0.3125
+Subjectivity0.6875
+
+Negative Sentence
+In the last few days, I've spoken with political leaders from the Middle East, Europe, Asia, and the Americas; and I've met with Prime Minister Thatcher, Prime Minister Mulroney, and NATO Secretary General Woerner.
+Polarity: -0.03
+Subjectivity0.153333333333
+
+Negative Sentence
+Japan, the United Kingdom, and France, and other governments around the world have imposed severe sanctions.
+Polarity: -0.125
+Subjectivity0.375
+
+Negative Sentence
+These sanctions, now enshrined in international law, have the potential to deny Iraq the fruits of aggression while sharply limiting its ability to either import or export anything of value, especially oil.
+Polarity: -0.03125
+Subjectivity0.6875
+
+Negative Sentence
+U.S. forces will work together with those of Saudi Arabia and other nations to preserve the integrity of Saudi Arabia and to deter further Iraqi aggression.
+Polarity: -0.0625
+Subjectivity0.4375
+
+Negative Sentence
+America does not seek conflict, nor do we seek to chart the destiny of other nations.
+Polarity: -0.125
+Subjectivity0.375
+
+Negative Sentence
+Hopefully, they will not be needed long.
+Polarity: -0.05
+Subjectivity0.4
+
+Negative Sentence
+They will not initiate hostilities, but they will defend themselves, the Kingdom of Saudi Arabia, and other friends in the Persian Gulf.
+Polarity: -0.125
+Subjectivity0.375
+
+Negative Sentence
+And he'll then consult with the NATO Foreign Ministers.
+Polarity: -0.125
+Subjectivity0.125
+
+Negative Sentence
+And I will explore whether we and our allies should draw down our strategic petroleum reserves.
+Polarity: -0.155555555556
+Subjectivity0.288888888889
+
+
+Overall Positivity or Negativity is
+0.204190907331

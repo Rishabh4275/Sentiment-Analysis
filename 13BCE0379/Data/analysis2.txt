@@ -1,0 +1,164 @@
+Positive Sentences
+President Reagan, on behalf of our nation, I thank you for the wonderful things that you have done for America.
+Polarity: 1.0
+Subjectivity1.0
+
+Positive Sentences
+It is right that the memory of Washington be with us today not only because this is our bicentennial inauguration but because Washington remains the Father of our Country.
+Polarity: 0.142857142857
+Subjectivity0.767857142857
+
+Positive Sentences
+And he would, I think, be gladdened by this day; for today is the concrete expression of a stunning fact: our continuity, these 200 years, since our government began.
+Polarity: 0.325
+Subjectivity0.65
+
+Positive Sentences
+A good place to talk as neighbors and as friends.
+Polarity: 0.7
+Subjectivity0.6
+
+Positive Sentences
+For this is a day when our nation is made whole, when our differences, for a moment, are suspended.
+Polarity: 0.2
+Subjectivity0.4
+
+Positive Sentences
+And my first act as President is a prayer.
+Polarity: 0.25
+Subjectivity0.333333333333
+
+Positive Sentences
+Heavenly Father, we bow our heads and thank You for Your love.
+Polarity: 0.5
+Subjectivity0.6
+
+Positive Sentences
+Accept our thanks for the peace that yields this day and the shared faith that makes its continuance likely.
+Polarity: 0.1
+Subjectivity0.6
+
+Positive Sentences
+Make us strong to do Your work, willing to heed and hear Your will, and write on our hearts these words: "Use power to help people."
+Polarity: 0.341666666667
+Subjectivity0.741666666667
+
+Positive Sentences
+For we are given power not to advance our own purposes, nor to make a great show in the world, nor a name.
+Polarity: 0.7
+Subjectivity0.875
+
+Positive Sentences
+I come before you and assume the Presidency at a moment rich with promise.
+Polarity: 0.375
+Subjectivity0.75
+
+Positive Sentences
+We live in a peaceful, prosperous time, but we can make it better.
+Polarity: 0.295454545455
+Subjectivity0.5
+
+Positive Sentences
+For a new breeze is blowing, and a world refreshed by freedom seems reborn.
+Polarity: 0.136363636364
+Subjectivity0.454545454545
+
+Positive Sentences
+The totalitarian era is passing, its old ideas blown away like leaves from an ancient, lifeless tree.
+Polarity: 0.1
+Subjectivity0.2
+
+Positive Sentences
+A new breeze is blowing, and a nation refreshed by freedom stands ready to push on.
+Polarity: 0.168181818182
+Subjectivity0.477272727273
+
+Positive Sentences
+But this is a time when the future seems a door you can walk right through into a room called tomorrow.
+Polarity: 0.142857142857
+Subjectivity0.330357142857
+
+Positive Sentences
+Great nations of the world are moving toward democracy through the door to freedom.
+Polarity: 0.8
+Subjectivity0.75
+
+Positive Sentences
+Men and women of the world move toward free markets through the door to prosperity.
+Polarity: 0.4
+Subjectivity0.8
+
+Positive Sentences
+The people of the world agitate for free expression and free thought through the door to the moral and intellectual satisfactions that only liberty allows.
+Polarity: 0.22
+Subjectivity0.65
+
+Positive Sentences
+We know what's right: Freedom is right.
+Polarity: 0.285714285714
+Subjectivity0.535714285714
+
+Positive Sentences
+We know how to secure a more just and prosperous life for man on Earth: through free markets, free speech, free elections, and the exercise of free will unhampered by the state.
+Polarity: 0.442857142857
+Subjectivity0.742857142857
+
+Positive Sentences
+For the first time in this century, for the first time in perhaps all history, man does not have to invent a system by which to live.
+Polarity: 0.212121212121
+Subjectivity0.388888888889
+
+Positive Sentences
+We don't have to talk late into the night about which form of government is better.
+Polarity: 0.1
+Subjectivity0.55
+
+Positive Sentences
+I take as my guide the hope of a saint: In crucial things, unity; in important things, diversity; in all things, generosity.
+Polarity: 0.2
+Subjectivity1.0
+
+Positive Sentences
+America today is a proud, free nation, decent and civil, a place we cannot help but love.
+Polarity: 0.466666666667
+Subjectivity0.766666666667
+
+Positive Sentences
+We know in our hearts, not loudly and proudly but as a simple fact, that this country has meaning beyond what we see, and that our strength is a force for good.
+Polarity: 0.3625
+Subjectivity0.689285714286
+
+Positive Sentences
+Are we enthralled with material things, less appreciative of the nobility of work and sacrifice?
+Polarity: 0.216666666667
+Subjectivity0.483333333333
+
+Positive Sentences
+We must hope to give them a sense of what it means to be a loyal friend; a loving parent; a citizen who leaves his home, his neighborhood, and town better than he found it.
+Polarity: 0.477777777778
+Subjectivity0.761111111111
+
+Positive Sentences
+That we were more driven to succeed than anyone around us?
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+No President, no government can teach us to remember what is best in what we are.
+Polarity: 1.0
+Subjectivity0.3
+
+Positive Sentences
+But if the man you have chosen to lead this government can help make a difference; if he can celebrate the quieter, deeper successes that are made not of gold and silk but of better hearts and finer souls; if he can do these things, then he must.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+America is never wholly herself unless she is engaged in high moral principle.
+Polarity: 0.08
+Subjectivity0.395
+
+
+Overall Positivity or Negativity is
+0.285701226306
+

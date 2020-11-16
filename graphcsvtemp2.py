@@ -1,0 +1,8 @@
+x = scipy.arange(4)
+y = scipy.array([4,7,6,5])
+f = pylab.figure()
+ax = f.add_axes([0.1, 0.1, 0.8, 0.8])
+ax.bar(x, y, align='center')
+ax.set_xticks(x)
+ax.set_xticklabels(['Aye', 'Bee', 'Cee', 'Dee'])
+f.show()

@@ -1,0 +1,484 @@
+Positive Sentences
+Mr. President, Mr. Speaker, members of the United States Congress:  I return as a former President of the Senate and a former member of this great House.
+Polarity: 0.266666666667
+Subjectivity0.25
+
+Positive Sentences
+Tonight I come not to speak about the state of the government, not to detail every new initiative we plan for the coming year nor to describe every line in the budget.
+Polarity: 0.136363636364
+Subjectivity0.454545454545
+
+
+Positive Sentences
+My friends, these days the world moves even more quickly, and now, after two great terms, a switch will be made.
+Polarity: 0.544444444444
+Subjectivity0.583333333333
+
+Positive Sentences
+At the bright center is the individual.
+Polarity: 0.2
+Subjectivity0.433333333333
+
+Positive Sentences
+And radiating out from him or her is the family, the essential unit of closeness and of love.
+Polarity: 0.25
+Subjectivity0.45
+
+Positive Sentences
+I am guided by certain traditions.
+Polarity: 0.214285714286
+Subjectivity0.571428571429
+
+Positive Sentences
+One is that there is a God and He is good, and his love, while free, has a self imposed cost: We must be good to one another.
+Polarity: 0.575
+Subjectivity0.65
+
+Positive Sentences
+It is that learning is good in and of itself.
+Polarity: 0.7
+Subjectivity0.6
+
+Positive Sentences
+The mothers of the Jewish ghettos of the east would pour honey on a book so the children would learn that learning is sweet.
+Polarity: 0.175
+Subjectivity0.325
+
+Positive Sentences
+And that is the idea of community - a beautiful word with a big meaning.
+Polarity: 0.425
+Subjectivity0.55
+
+Positive Sentences
+For we are a nation of communities, of thousands and tens of thousands of ethnic, religious, social, business, labor union, neighborhood, regional and other organizations, all of them varied, voluntary and unique.
+Polarity: 0.0708333333333
+Subjectivity0.422916666667
+
+Positive Sentences
+This is America: the Knights of Columbus, the Grange, Hadassah, the Disabled American Veterans, the Order of Ahepa, the Business and Professional Women of America, the union hall, the Bible study group, LULAC, "Holy Name" - a brilliant diversity spread like stars, like a thousand points of light in a broad and peaceful sky.
+Polarity: 0.216071428571
+Subjectivity0.416071428571
+
+Positive Sentences
+Government is part of the nation of communities - not the whole, just a part.
+Polarity: 0.2
+Subjectivity0.4
+
+Positive Sentences
+I do not hate government.
+Polarity: 0.4
+Subjectivity0.9
+
+Positive Sentences
+A government that remembers that the people are its master is a good and needed thing.
+Polarity: 0.7
+Subjectivity0.6
+
+Positive Sentences
+I like what's been tested and found to be true.
+Polarity: 0.35
+Subjectivity0.65
+
+Positive Sentences
+Should society be allowed to impose the death penalty on those who commit crimes of extraordinary cruelty and violence?
+Polarity: 0.333333333333
+Subjectivity1.0
+
+Positive Sentences
+Should our children have the right to say a voluntary prayer, or even observe a moment of silence in the schools?
+Polarity: 0.285714285714
+Subjectivity0.535714285714
+
+Positive Sentences
+Should free men and women have the right to own a gun to protect their home?
+Polarity: 0.428571428571
+Subjectivity0.778571428571
+
+Positive Sentences
+Is it right to believe in the sanctity of life and protect the lives of innocent children?
+Polarity: 0.392857142857
+Subjectivity0.617857142857
+
+Positive Sentences
+The day of her christening we wept with joy.
+Polarity: 0.8
+Subjectivity0.2
+
+Positive Sentences
+I'm the one who believes it is a scandal to give a weekend furlough to a hardened first degree killer who hasn't even served enough time to be eligible for parole.
+Polarity: 0.125
+Subjectivity0.416666666667
+
+Positive Sentences
+I'm the one who says a drug dealer who is responsible for the death of a policeman should be subject to capital punishment.
+Polarity: 0.0166666666667
+Subjectivity0.441666666667
+
+Positive Sentences
+Let me tell you more about the mission.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+Every one of our children deserves a first rate school.
+Polarity: 0.25
+Subjectivity0.333333333333
+
+Positive Sentences
+I will give more kids a Head Start.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+I want a drug free America - and this will not be easy to achieve.
+Polarity: 0.416666666667
+Subjectivity0.816666666667
+
+Positive Sentences
+But I want to enlist the help of some people who are rarely included.
+Polarity: 0.3
+Subjectivity0.9
+
+Positive Sentences
+I am going to do whatever it takes to make sure the disabled are included in the mainstream.
+Polarity: 0.15
+Subjectivity0.594444444444
+
+Positive Sentences
+And we must clean the air.
+Polarity: 0.366666666667
+Subjectivity0.7
+
+Positive Sentences
+It seems to me the Presidency provides an incomparable opportunity for "gentle persuasion."
+Polarity: 0.3
+Subjectivity0.7
+
+Positive Sentences
+I hope to stand for a new harmony, a greater tolerance.
+Polarity: 0.318181818182
+Subjectivity0.477272727273
+
+Positive Sentences
+We've come far, but I think we need a new harmony among the races in our country.
+Polarity: 0.118181818182
+Subjectivity0.727272727273
+
+Positive Sentences
+Some people who are enjoying our prosperity have forgotten what it's for.
+Polarity: 0.5
+Subjectivity0.6
+
+Positive Sentences
+There are those who have dropped their standards along the way, as if ethics were too heavy and slowed their rise to the top.
+Polarity: 0.15
+Subjectivity0.5
+
+Positive Sentences
+But we're the people who sundered a nation rather than allow a sin called slavery - we're the people who rose from the ghettos and the deserts.
+Polarity: 0.6
+Subjectivity0.95
+
+Positive Sentences
+We celebrated the individual - but we weren't self -centered.
+Polarity: 0.175
+Subjectivity0.575
+
+Positive Sentences
+We were practical - but we didn't live only for material things.
+Polarity: 0.0681818181818
+Subjectivity0.75
+
+Positive Sentences
+It is to allow us to pursue "the better angels," to give us time to think and grow.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+Prosperity with a purpose means taking your idealism and making it concrete by certain acts of goodness.
+Polarity: 0.182142857143
+Subjectivity0.435714285714
+
+Positive Sentences
+As for me, I have held high office and done the work of democracy day by day.
+Polarity: 0.16
+Subjectivity0.54
+
+Positive Sentences
+My parents were prosperous; their children were lucky.
+Polarity: 0.333333333333
+Subjectivity0.833333333333
+
+Positive Sentences
+Young Teddy Roosevelt met the new America when he roamed the immigrant streets of New York.
+Polarity: 0.124242424242
+Subjectivity0.436363636364
+
+Positive Sentences
+The war was over, and we wanted to get out and make it on our own.
+Polarity: 0.6
+Subjectivity1.0
+
+Positive Sentences
+Those were exciting days.
+Polarity: 0.3
+Subjectivity0.8
+
+Positive Sentences
+Worked in the oil business, started my own.
+Polarity: 0.6
+Subjectivity1.0
+
+Positive Sentences
+But the big thing I learned is the satisfaction of creating jobs, which meant creating opportunity, which meant happy families, who in turn could do more to help others and enhance their own lives.
+Polarity: 0.475
+Subjectivity0.65
+
+Positive Sentences
+I learned that the good done by a single good job can be felt in ways you can't imagine.
+Polarity: 0.442857142857
+Subjectivity0.471428571429
+
+Positive Sentences
+I may not be the most eloquent, but I learned early that eloquence won't draw oil from the ground.
+Polarity: 0.3
+Subjectivity0.4
+
+Positive Sentences
+A President must be many things.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+He must be a shrewd protector of America's interests; And he must be an idealist who leads those who move for a freer and more democratic planet.
+Polarity: 0.5
+Subjectivity0.5
+
+Positive Sentences
+And he must be able to define - and lead - a mission.
+Polarity: 0.5
+Subjectivity0.625
+
+Positive Sentences
+I have seen the unexpected crisis that arrive in a cable in a young aide's hand.
+Polarity: 0.1
+Subjectivity0.7
+
+Positive Sentences
+I have seen modest decisions made with anguish, and crucial decisions made with dispatch.
+Polarity: 0.05
+Subjectivity0.95
+
+Positive Sentences
+I will keep America moving forward, always forward - for a better America, for an endless enduring dream and a thousand points of light.
+Polarity: 0.258333333333
+Subjectivity0.65
+
+Positive Sentences
+And I will complete it.
+Polarity: 0.1
+Subjectivity0.4
+
+Negative Sentence
+I mean to run hard, to fight hard, to stand on the issues - and I mean to win.
+Polarity: -0.0816666666667
+Subjectivity0.571666666667
+
+Negative Sentence
+For seven and a half years I have helped a President conduct the most difficult job on earth.
+Polarity: -0.0555555555556
+Subjectivity0.555555555556
+
+Negative Sentence
+I seek the presidency for a single purpose, a purpose that has motivated millions of Americans across the years and the ocean voyages.
+Polarity: -0.0714285714286
+Subjectivity0.214285714286
+
+Negative Sentence
+There have been other missions for me - Congress, China, the CIA.
+Polarity: -0.125
+Subjectivity0.375
+
+Negative Sentence
+What it all comes down to is this:  My opponent's view of the world sees a long slow decline for our country, an inevitable fall mandated by impersonal historical forces.
+Polarity: -0.101111111111
+Subjectivity0.417777777778
+
+Negative Sentence
+Eight years ago I stood here with Ronald Reagan and we promised, together, to break with the past and return America to her greatness.
+Polarity: -0.25
+Subjectivity0.25
+
+Negative Sentence
+Well, that's the way it may look to the three blind mice.
+Polarity: -0.5
+Subjectivity0.666666666667
+
+Negative Sentence
+We got it down to four.
+Polarity: -0.155555555556
+Subjectivity0.288888888889
+
+Negative Sentence
+We cut them in half.
+Polarity: -0.166666666667
+Subjectivity0.166666666667
+
+Negative Sentence
+My friends, eight years ago this economy was flat on its back - intensive care.
+Polarity: -0.0125
+Subjectivity0.0625
+
+Negative Sentence
+We came in and gave it emergency treatment: Got the temperature down by lowering regulation, got the blood pressure down when we lowered taxes.
+Polarity: -0.155555555556
+Subjectivity0.288888888889
+
+Negative Sentence
+And now who do we hear knocking on the door but the doctors who made him sick.
+Polarity: -0.714285714286
+Subjectivity0.857142857143
+
+Negative Sentence
+I will not allow this country to be made weak again.
+Polarity: -0.375
+Subjectivity0.625
+
+Negative Sentence
+The hard earth there has not yet settled.
+Polarity: -0.291666666667
+Subjectivity0.541666666667
+
+Negative Sentence
+I hate war.
+Polarity: -0.8
+Subjectivity0.9
+
+Negative Sentence
+From the individual to the family to the community, and on out to the town, to the church and school, and, still echoing out, to the county, the state, the nation - each doing only what it does well, and no more.
+Polarity: -0.0833333333333
+Subjectivity0.633333333333
+
+Negative Sentence
+Though liberal democrats have an odd view of it.
+Polarity: -0.166666666667
+Subjectivity0.25
+
+Negative Sentence
+They see "community" as a limited cluster of interest groups, locked in odd conformity.
+Polarity: -0.119047619048
+Subjectivity0.196428571429
+
+Negative Sentence
+I respect old fashioned common sense, and have no great love for the imaginings of social planners.
+Polarity: -0.0133333333333
+Subjectivity0.423333333333
+
+Negative Sentence
+The Congress will push me to raise taxes, and I'll say no, and they'll push, and I'll say no, and they'll push again, and I'll say to them, "Read my lips: no new taxes."
+Polarity: -0.0681818181818
+Subjectivity0.454545454545
+
+Negative Sentence
+Tonight I challenge the young people of our country to shut down the drug dealers around the world.
+Polarity: -0.0277777777778
+Subjectivity0.344444444444
+
+Negative Sentence
+For too long they've been left out.
+Polarity: -0.025
+Subjectivity0.2
+
+Negative Sentence
+I am going to have the FBI trace the medical wastes and we are going to punish the people who dump those infected needles into our oceans, lakes and rivers.
+Polarity: -0.1
+Subjectivity0.0
+
+Negative Sentence
+I will put incentives back into the domestic energy industry, for I know from personal experience there is no security for the United States in further dependence on foreign oil.
+Polarity: -0.025
+Subjectivity0.205
+
+Negative Sentence
+In foreign affairs I will continue our policy of peace through strength.
+Polarity: -0.125
+Subjectivity0.125
+
+Negative Sentence
+I will move toward further cuts in the strategic and conventional arsenals of both the United States and the Soviet Union.
+Polarity: -0.0714285714286
+Subjectivity0.428571428571
+
+Negative Sentence
+We're on a journey to a new century, and we've got to leave the tired old baggage of bigotry behind.
+Polarity: -0.140909090909
+Subjectivity0.513636363636
+
+Negative Sentence
+There's graft in city hall, the greed on Wall Street; there's influence peddling in Washington, and the small corruptions of everyday ambition.
+Polarity: -0.225
+Subjectivity0.5
+
+Negative Sentence
+We believed in getting ahead - but blind ambition wasn't our way.
+Polarity: -0.5
+Subjectivity0.666666666667
+
+Negative Sentence
+It means helping a child from an unhappy home learn how to read - and I thank my wife Barbara for all her work in literacy.
+Polarity: -0.6
+Subjectivity0.9
+
+Negative Sentence
+Some would say it's soft and insufficiently tough to care about these things.
+Polarity: -0.144444444444
+Subjectivity0.591666666667
+
+Negative Sentence
+And I learned a few things about life in a place called Texas.
+Polarity: -0.2
+Subjectivity0.1
+
+Negative Sentence
+Lived in a little shotgun house, one room for the three of us.
+Polarity: -0.1875
+Subjectivity0.5
+
+Negative Sentence
+Lived the dream - high school football on Friday night, Little League, neighborhood barbecue.
+Polarity: -0.01375
+Subjectivity0.52
+
+Negative Sentence
+So was everyone else who was taking a chance and pushing into unknown territory with kids and a dog and a car.
+Polarity: -0.1
+Subjectivity0.6
+
+Negative Sentence
+I may sometimes be a little awkward, but there's nothing self-conscious in my love of country.
+Polarity: -0.0958333333333
+Subjectivity0.7
+
+Negative Sentence
+He must see to it that government intrudes as little as possible in the lives of the people; and yet remember that it is the nation's character.
+Polarity: -0.09375
+Subjectivity0.75
+
+Negative Sentence
+For seven and a half years I have worked with a President - and I have seen what crosses that big desk.
+Polarity: -0.0833333333333
+Subjectivity0.133333333333
+
+Negative Sentence
+And so I know that what it all comes down to, this election - what it all comes down to, after all the shouting and the cheers - is the man at the desk.
+Polarity: -0.155555555556
+Subjectivity0.288888888889
+
+Negative Sentence
+I say it without boast or bravado, I've fought for my country, I've served, I've built - and I will go from the hills to the hollows, from the cities to the suburbs to the loneliest town on the quietest street to take our message of hope and growth for every American to every American.
+Polarity: -0.0666666666667
+Subjectivity0.133333333333
+
+
+Overall Positivity or Negativity is
+0.285701226306

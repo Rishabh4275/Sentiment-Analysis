@@ -1,0 +1,3 @@
+http://tech.thejoestory.com/2015/01/python-textblob-sentiment-analysis.html
+http://aparrish.neocities.org/textblob.html
+http://millercenter.org/president/speeches#washington
